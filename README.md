@@ -1,0 +1,2 @@
+# Smart-Clothes-Inventory-Sales-and-Business-Intelligence-Management-System
+A Windows desktop application for clothing retailers to manage products, inventory, suppliers, customers, purchases, and sales. Features include automatic stock updates, sales receipts, gross profit calculations, business dashboards, date-based reports, and low-stock alerts. Built with React.js, Node.js, Express.js, Electron, and SQLite.
